@@ -1,8 +1,9 @@
 package ua.javarush.encoder;
 
 public class Application {
-    public static void main(String[] args) {
+    public static void main(String args []) {
 
-        System.out.println("...........");
+
+        System.out.println("Hi");
     }
 }
